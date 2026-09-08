@@ -7,14 +7,13 @@
 ![SCQA](https://img.shields.io/badge/SCQA-FF6F00?style=flat)
 ![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat)
 ![Segmentación](https://img.shields.io/badge/Segmentaci%C3%B3n_Clientes-4B8BBE?style=flat)
-
 ---
 ## Contexto y problema de negocio
-La empresa Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia. La empresa comercializa productos en cuatro categorías:
-🖥️ Electrónica
-👕 Ropa
-⚽ Deportes
-🏠 Hogar
+La empresa Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia. La empresa comercializa productos en cuatro categorías:<br>
+🖥️ Electrónica<br>
+👕 Ropa<br>
+⚽ Deportes<br>
+🏠 Hogar<br>
 Su dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025. Actualmente, la información está dispersa en datos transaccionales y no existe una visión clara que permita responder preguntas estratégicas sobre ventas, rentabilidad y comportamiento de clientes.
 
 👉 La misión del proyecto es transformar estos datos desordenados en un dashboard que presente la información visual, clara y accionable.
