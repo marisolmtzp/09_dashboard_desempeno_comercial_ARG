@@ -97,15 +97,18 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 ## 🔄 Flujo general del proyecto (Guía paso a paso)
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 
+<sub>
 
-| Paso | Acción | Resultado |
-|---------|-----------|---------------------|
-| 1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis |
-| 2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal | Base para inteligencia de tiempo |
-| 3. Modelado de datos | Construcción de esquema estrella | Modelo analítico correcto |
-| 4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo | Insights del negocio |
-| 5. Diseño de dashboard | Creación de páginas de análisis ejecutivo, comercial y cohortes | Visualización clara |
-| 6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones | Insights estratégicos |
+| Pasos | Acción | Resultado |
+|--------|------------------|------------------|
+| 1. Conexión y exploración | Importación del dataset y revisión de tipos de datos, columnas y métricas clave | Comprensión inicial del negocio y estructura del dataset |
+| 2. Preparación de datos | Validación de tipos, creación de columnas necesarias, revisión de consistencia | Dataset limpio y listo para análisis |
+| 3. Aplicación de principios de diseño visual | Definición de layout, jerarquía visual, colores y estructura antes de la creación de visualizaciones | Dashboard claro y profesional |
+| 4. Creación de visualizaciones efectivas | Diseño de dos vistas: Vista General (overview) y Vista Detalle (análisis específico) | Visión ejecutiva + análisis profundo |
+| 5. Filtros e interacciones | Implementación de filtros y configuración de interacciones entre gráficos | Exploración dinámica del negocio |
+| 6. Narrativa con modelo SQCA | Construicción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
+
+</sub>
 
 ---
 
