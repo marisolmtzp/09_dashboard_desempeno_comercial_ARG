@@ -9,11 +9,11 @@
 ![Segmentación](https://img.shields.io/badge/Segmentaci%C3%B3n_Clientes-4B8BBE?style=flat)
 ---
 ## Contexto y problema de negocio
-La empresa Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia. La empresa comercializa productos en cuatro categorías:<br>
+La empresa Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia. La empresa comercializa productos en cuatro categorías:<br><br>
 🖥️ Electrónica<br>
 👕 Ropa<br>
 ⚽ Deportes<br>
-🏠 Hogar<br>
+🏠 Hogar<br><br>
 Su dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025. Actualmente, la información está dispersa en datos transaccionales y no existe una visión clara que permita responder preguntas estratégicas sobre ventas, rentabilidad y comportamiento de clientes.
 
 👉 La misión del proyecto es transformar estos datos desordenados en un dashboard que presente la información visual, clara y accionable.
@@ -41,31 +41,28 @@ El dashboard ayuda a responder preguntas como:
 - Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
 - Modelo de narrativa SQCA
 
-
-
-
-
 ## 📂 Dataset del proyecto
 El proyecto utiliza una tabla de transacciones de ventas del negocio retail Andes Retail Group correspondientes a los años 2024–2025.
 
 **Andes_Retail_Group_2024_2025.xlsx : Cada fila representa un pedido individual, incluyendo información del cliente, ubicación geográfica, categoría de producto y métricas financieras como ingresos y costo.**<br>
-
 👉 Este dataset permitirá analizar desempeño comercial, rentabilidad y comportamiento temporal del negocio.<br>
 
 <sub>
 
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-| id_venta | Categórica | Identificador único de la venta | SALE000001 |
-| fecha_venta | Fecha | Fecha en que se realizó la venta | 2024-01-05 |
-| id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497 |
-| id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591 |
-| ciudad | Categórica | Ciudad donde se realizó la venta | Bogotá |
-| precio_venta | Numérico (decimal) | Precio final de venta de la propiedad | 1027126 |
-| tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa |
-| canal_venta | Categórica | Canal utilizado para la venta | Corredor |
-| porcentaje_comision | Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473 |
-| monto_comision | Numérico (decimal) | Monto de comisión generado por la venta | 48605 |
+| ID_Pedido | Numérico (int) | Identificador único del pedido | 1 |
+| Fecha_Pedido | Fecha | Día en que se realizó la venta | 2025-10-29 |
+| Estación | Categórica | Temporada del año según el hemisferio sur: • Verano (dic–feb) • Otoño (mar–may) • Invierno (jun–ago) • Primavera (sep–nov) | Primavera |
+| ID_Cliente | Categórica | Identificador único del cliente | C8382 |
+| Segmento_Cliente | Categórica | Tipo de cliente según valor comercial | Estándar |
+| Región | Categórica | Región geográfica dentro del país | Sur |
+| País | Categórica | País donde se realizó la venta | Colombia |
+| Categoría_Producto | Categórica | Tipo de producto vendido | Hogar |
+| Unidades_Vendidas | Numérico (int) | Cantidad de unidades vendidas | 7 |
+| Precio_Unitario | Numérico (decimal) | Precio por unidad del producto | 67 |
+| Ingresos | Numérico (decimal) | Total vendido (precio × unidades) | 469 |
+| Costo | Numérico (decimal) | Costo asociado a la venta | 325.44 |
 
 </sub>
 
