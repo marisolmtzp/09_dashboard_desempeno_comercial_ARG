@@ -1,9 +1,7 @@
 # 09_dashboard_desempeno_comercial_ARG
 Dashboard de Desempeño Comercial para Andes Retail Group 2024-2025. Ventas retail multicategoría, rentabilidad y comportamiento de clientes (Perú/Chile/Colombia) — Power BI, vistas ejecutiva y de detalle, modelo de datos, KPIs de ventas y rentabilidad, storytelling con narrativa modelo SCQA.
 
-
-
-# Dashboard - Análisis comercial inmobiliario 2023-2024 <br>Andes Capital Real Estate
+# Dashboard - Análisis de desempeño comercial 2024-2025 <br>Andes Retail Group
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-PowerQuery-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-StarSchema-4B8BBE?style=flat&logo=powerbi&logoColor=black)
@@ -12,6 +10,8 @@ Dashboard de Desempeño Comercial para Andes Retail Group 2024-2025. Ventas reta
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![SCQA](https://img.shields.io/badge/SCQA-FF6F00?style=flat)
 ![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat)
+![Segmentación](https://img.shields.io/badge/Segmentaci%C3%B3n_Clientes-4B8BBE?style=flat)
+
 ---
 ## Contexto y problema de negocio
 La empresa inmobiliaria Andes Capital Real Estate necesita comprender mejor el desempeño comercial. 
