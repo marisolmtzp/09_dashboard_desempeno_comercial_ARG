@@ -104,7 +104,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 3. Aplicación de principios de diseño visual | Definición de layout, jerarquía visual, colores y estructura antes de la creación de visualizaciones | Dashboard claro y profesional |
 | 4. Creación de visualizaciones efectivas | Diseño de dos vistas: Vista General (overview) y Vista Detalle (análisis específico) | Visión ejecutiva + análisis profundo |
 | 5. Filtros e interacciones | Implementación de filtros y configuración de interacciones entre gráficos | Exploración dinámica del negocio |
-| 6. Narrativa con modelo SQCA | Construicción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
+| 6. Narrativa con modelo SCQA | Construcción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
 
 ---
 
