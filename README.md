@@ -29,36 +29,28 @@ El dashboard ayuda a responder preguntas como:
 
 ## 🎯 Funcionalidades implementadas
 - Conexión y validación de un **dataset transaccional**.
-- Preparación de datos para el análisis.
+- **Preparación de datos** para el análisis.
 - Diseño de dashboards aplicando **principios de diseño visual profesional**.
 - Construcción de **visualizaciones claras que responden preguntas de negocio**.
 - Implementación de **filtros e interacciones que permiten exploración dinámica**.
 - Narrativa estratégica usando el **modelo SCQA**.
-- Presentación de hallazgos de forma ejecutiva en dashboard y de forma asíncrona.
+- **Presentación de hallazgos de forma ejecutiva** en dashboard y de forma asíncrona.
 
-
-
----
-
-
----
-
-
-
-
-
-  
 ## 🛠️ Herramientas del proyecto
-- Power BI
-- Visualizaciones nativas (barras, líneas, tablas, KPI).
-- Modelado de datos en esquema estrella.
-- Cálculos analíticos (medidas y columnas calculadas).
+- Power BI Desktop o Tableau
+- Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
+- Modelo de narrativa SQCA
+
+
+
+
 
 ## 📂 Dataset del proyecto
-El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (clientes y propiedades).<br>
+El proyecto utiliza una tabla de transacciones de ventas del negocio retail Andes Retail Group correspondientes a los años 2024–2025.
 
-**hecho_ventas_propiedades: Cada fila representa la transacción de venta de una propiedad.**<br>
-👉 Este dataset permitirá analizar ventas, comisiones, canales comerciales y tendencias en el tiempo.<br>
+**Andes_Retail_Group_2024_2025.xlsx : Cada fila representa un pedido individual, incluyendo información del cliente, ubicación geográfica, categoría de producto y métricas financieras como ingresos y costo.**<br>
+
+👉 Este dataset permitirá analizar desempeño comercial, rentabilidad y comportamiento temporal del negocio.<br>
 
 <sub>
 
@@ -77,55 +69,12 @@ El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (cliente
 
 </sub>
 
-**dim_clientes : Cada fila representa un cliente.**<br>
-👉 Este dataset permitirá analizar la segmentación de clientes y el comportamiento de compra por ubicación o tipo de comprador.<br>
 
-<sub>
 
-| Columna | Tipo de dato | Descripción | Ejemplo |
-|--------|--------|------------------|------------------|
-| id_cliente | Categórica | Identificador único del cliente | CUST00001 |
-| segmento_comprador | Categórica | Tipo o perfil del comprador | Primera vez |
-| pais | Categórica | País del cliente | Colombia |
-| ciudad | Categórica | Ciudad del cliente | Bogotá |
 
-</sub>
 
-**dim_propiedades: Cada fila representa una propiedad disponible para venta.**<br>
-👉 Este dataset permitirá analizar características de las propiedades y su relación con el desempeño comercial.<br>
 
-<sub>
-	
-| Columna | Tipo de dato | Descripción | Ejemplo |
-|--------|--------|------------------|------------------|
-| id_venta | Categórica | Identificador único de la venta | SALE000001 |
-| fecha_venta | Fecha	|Fecha en que se realizó la venta | 2024-01-05 |
-| id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497 |
-| id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591 |
-| ciudad | Categórica| Ciudad donde se realizó la venta | Bogotá |
-| precio_venta | Numérico (decimal) |	Precio final de venta de la propiedad | 1027126 |
-| tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa |
-| canal_venta	| Categórica | Canal utilizado para la venta	| Corredor 1
-| porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473 1
-| monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605 |
 
-</sub>
-
-Durante el proyecto se creó una tabla calendario llamada dim_fecha.<br>
-**dim_fecha: Esta tabla permitirá realizar análisis temporal como:**<br>
-👉 Tendencias de ventas; Comparaciones Year over Year (YoY); Métricas acumuladas YTD y MTD.
-
-<sub>
-	
-| Columna | Tipo de dato | Descripción | Ejemplo |
-|--------|--------|------------------|------------------|
-| Date | Fecha | Fecha del calendario | 2024-01-05 |
-| Año | Numérico (int) | Año de la fecha | 2024 |
-| Mes | Categórica | Nombre del mes | Enero |
-| Mes Numero | Numérico (int) | Número del mes | 1 |
-| Año-Mes | Categórica | Año y mes en formato analítico | 2024-01 |
-
-</sub>
 
 ## Estructura del proyecto
 ```
