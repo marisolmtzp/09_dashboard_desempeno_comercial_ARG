@@ -1,8 +1,4 @@
-# 09_dashboard_desempeno_comercial_ARG
-Dashboard de Desempeño Comercial para Andes Retail Group 2024-2025. Ventas retail multicategoría, rentabilidad y comportamiento de clientes (Perú/Chile/Colombia) — Power BI, vistas ejecutiva y de detalle, modelo de datos, KPIs de ventas y rentabilidad, storytelling con narrativa modelo SCQA.
-
 # Dashboard - Análisis de desempeño comercial 2024-2025 <br>Andes Retail Group
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-PowerQuery-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-StarSchema-4B8BBE?style=flat&logo=powerbi&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
