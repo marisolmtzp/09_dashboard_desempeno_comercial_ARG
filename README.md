@@ -97,8 +97,6 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 ## 🔄 Flujo general del proyecto (Guía paso a paso)
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 
-<sub>
-
 | Pasos | Acción | Resultado |
 |--------|------------------|------------------|
 | 1. Conexión y exploración | Importación del dataset y revisión de tipos de datos, columnas y métricas clave | Comprensión inicial del negocio y estructura del dataset |
@@ -107,8 +105,6 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 4. Creación de visualizaciones efectivas | Diseño de dos vistas: Vista General (overview) y Vista Detalle (análisis específico) | Visión ejecutiva + análisis profundo |
 | 5. Filtros e interacciones | Implementación de filtros y configuración de interacciones entre gráficos | Exploración dinámica del negocio |
 | 6. Narrativa con modelo SQCA | Construicción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
-
-</sub>
 
 ---
 
