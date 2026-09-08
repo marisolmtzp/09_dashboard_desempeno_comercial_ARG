@@ -27,21 +27,26 @@ El dashboard ayuda a responder preguntas como:
 > *¿Qué patrones temporales se observan a lo largo del año?*<br>
 > *¿Dónde podrían existir oportunidades de mejora comercial?*<br>
 
-
-
-
-
-
-
-
-
 ## 🎯 Funcionalidades implementadas
-- Preparación y validación de datos para el análisis.
-- Construcción de un **modelo de datos en esquema estrella.**
-- Creación de **medidas analíticas** para análisis comercial.
-- Aplicación de **inteligencia de tiempo** para analizar tendencias.
-- Diseño de dashboards claros para análisis ejecutivo.
-- Análisis de la **recurrencia de clientes utilizando cohortes**.
+- Conexión y validación de un **dataset transaccional**.
+- Preparación de datos para el análisis.
+- Diseño de dashboards aplicando **principios de diseño visual profesional**.
+- Construcción de **visualizaciones claras que responden preguntas de negocio**.
+- Implementación de **filtros e interacciones que permiten exploración dinámica**.
+- Narrativa estratégica usando el **modelo SCQA**.
+- Presentación de hallazgos de forma ejecutiva en dashboard y de forma asíncrona.
+
+
+
+---
+
+
+---
+
+
+
+
+
   
 ## 🛠️ Herramientas del proyecto
 - Power BI
