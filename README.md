@@ -10,20 +10,31 @@
 
 ---
 ## Contexto y problema de negocio
-La empresa inmobiliaria Andes Capital Real Estate necesita comprender mejor el desempeño comercial. 
-La empresa gestiona la venta de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes.
-Actualmente, la información existe a nivel transaccional, pero no hay una visión analítica clara del negocio.
+La empresa Andes Retail Group es una empresa de retail con operaciones en Perú, Chile y Colombia. La empresa comercializa productos en cuatro categorías:
+🖥️ Electrónica
+👕 Ropa
+⚽ Deportes
+🏠 Hogar
+Su dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025. Actualmente, la información está dispersa en datos transaccionales y no existe una visión clara que permita responder preguntas estratégicas sobre ventas, rentabilidad y comportamiento de clientes.
 
-👉 La misión del dashboard interactivo en Power BI es permitir analizar ventas, clientes y propiedades para apoyar decisiones estratégicas.
+👉 La misión del proyecto es transformar estos datos desordenados en un dashboard que presente la información visual, clara y accionable.
 
 **💡 Preguntas del negocio**<br>
 El dashboard ayuda a responder preguntas como:<br>
-> *¿Cuál es el ingreso total generado por las ventas de propiedades?*<br>
-> *¿Qué tipo de propiedad genera más ingresos?*<br>
-> *¿Qué segmentos de clientes compran más?*<br>
-> *¿Cómo evolucionan las ventas en el tiempo?*<br>
-> *¿El negocio está creciendo año contra año?*<br>
-> *¿Los clientes vuelven a comprar después de su primera compra?*<br>
+> *¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?*<br>
+> *¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?*<br>
+> *¿Qué categorías de producto tienen mayor impacto en el negocio?*<br>
+> *¿Existen diferencias relevantes entre países o regiones?*<br>
+> *¿Qué patrones temporales se observan a lo largo del año?*<br>
+> *¿Dónde podrían existir oportunidades de mejora comercial?*<br>
+
+
+
+
+
+
+
+
 
 ## 🎯 Funcionalidades implementadas
 - Preparación y validación de datos para el análisis.
