@@ -18,8 +18,8 @@ Su dirección ejecutiva necesita un dashboard interactivo que permita entender e
 
 👉 La misión del proyecto es transformar estos datos desordenados en un dashboard que presente la información visual, clara y accionable.
 
-**💡 Preguntas del negocio**<br>
-El dashboard ayuda a responder preguntas como:<br>
+**💡 Preguntas del negocio**
+El dashboard ayuda a responder preguntas como:
 > *¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?*<br>
 > *¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?*<br>
 > *¿Qué categorías de producto tienen mayor impacto en el negocio?*<br>
