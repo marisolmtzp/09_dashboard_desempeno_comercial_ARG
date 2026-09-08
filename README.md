@@ -53,7 +53,7 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 |--------|--------|------------------|------------------|
 | ID_Pedido | Numérico (int) | Identificador único del pedido | 1 |
 | Fecha_Pedido | Fecha | Día en que se realizó la venta | 2025-10-29 |
-| Estación | Categórica | Temporada del año según el hemisferio sur: Verano (dic–feb), Otoño (mar–may), Invierno (jun–ago), Primavera (sep–nov) | Primavera |
+| Estación | Categórica | Temporada del año según el hemisferio sur: Primavera, Verano, Otoño, Invierno | Primavera |
 | ID_Cliente | Categórica | Identificador único del cliente | C8382 |
 | Segmento_Cliente | Categórica | Tipo de cliente según valor comercial | Estándar |
 | Región | Categórica | Región geográfica dentro del país | Sur |
