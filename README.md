@@ -75,12 +75,10 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 
 ## Estructura del proyecto
 ```
-10_dashboard_analisis_comercial_ACRE/
+09_dashboard_desempeno_comercial_ARG/
 │
 ├── Datasets/                                ← Datos fuente
-│   ├── dim_propiedades.csv                  # 8,000 registros de propiedades · 8 columnas
-│   ├── dim_clientes.csv                     # 3,500 registros de clientes · 4 columnas
-│   └── hecho_ventas_propiedades.csv         # 8,500 transacciones de venta · 10 columnas
+│   └── Andes_Retail_Group_2024_2025.xlsx    # 5,000 registros de venta · 12 columnas
 │
 ├── exports/                                ← Generado al ejecutar data wrangling
 │   ├── Andes_Capital_RE_2023_2024.xlsx      # Dataset consolidado para Power BI
