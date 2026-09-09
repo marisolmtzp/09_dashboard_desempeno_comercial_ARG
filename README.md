@@ -129,43 +129,6 @@ Análisis profundo para explorar causas y detectar insights.
 👉 Profundidad analítica y soporte a decisiones.
 
 
-
-| | 🖥️ Vista 1: Overview ejecutivo | 🔎 Vista 2: Análisis detallado |
-|---|---|---|
-| **Pregunta que responde** | ¿Cómo está el negocio en general? | ¿Dónde están las diferencias, patrones u oportunidades? |
-| **Enfoque** | Lectura rápida del desempeño global | Análisis profundo para explorar causas y detectar insights |
-| **Principios de diseño aplicados** | Jerarquía visual · Preatención · Alineación y agrupación · Minimalismo visual | — |
-| **Contenido** | Métricas clave (ventas, ganancia, volumen) · Evolución temporal · Comparaciones entre geografías/segmentos · Estado actual del negocio | Comparaciones entre categorías, segmentos o regiones · Visuales con filtros · Tabla de detalle |
-| **Objetivo** | 👉 Síntesis y claridad, sin sobrecarga de gráficos | 👉 Profundidad analítica y soporte a decisiones |
-
-
-**🖥️ Vista 1: Overview ejecutivo**<br>
-Responde a la pregunta: ¿Cómo está el negocio en general?<br>
-
-En esta vista se ofrece una lectura rápida del desempeño global.<br>
-Se aplicaron principios de diseño de dashboards como:<br>
-- Jerarquía visual (KPIs principales en la parte superior, detalle debajo).
-- Preatención (color y tamaño para dirigir la mirada a lo más relevante).
-- Alineación y agrupación de elementos relacionados.
-- Minimalismo visual (evitar sobrecarga de gráficos).<br>
-De modo que un directivo pueda entender la situación en pocos segundos.<br><br>
-
-Se incluyó información como:<br>
-- Métricas clave de desempeño (ventas, ganancia, volumen, etc.).
-- Evolución del negocio a lo largo del tiempo.
-- Comparaciones generales entre geografías o segmentos.
-- Elementos que resuman el estado actual del negocio<br>
-👉 Se priorizó síntesis y claridad sin demasiados gráficos.<br><br>
-
-**🔎 Vista 2: Análisis detallado**<br>
-Responde a la pregunta: ¿Dónde están las diferencias, patrones u oportunidades?<br>
-Aquí se desglosa un análisis más profundo que permite explorar causas y detectar insights.<br><br>
-
-Se incluyen: <br>
-- Comparaciones entre categorías, segmentos o regiones.
-- Visuales que permiten filtrar o profundizar
-- Elemento de detalle (tabla) para profundizar en los datos<br>
-👉 Esta vista facilita la exploración y el diagnóstico, no sólo muestra totales. Su objetivo es brindar profundidad analítica y soporte a decisiones.
 ---
 <table>
 <tr>
