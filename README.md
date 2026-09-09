@@ -107,6 +107,35 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 6. Narrativa con modelo SCQA | Construcción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
 
 ---
+## Estructura del dashboard
+**🖥️ Vista 1: Overview ejecutivo**<br>
+Responde a la pregunta: ¿Cómo está el negocio en general?<br>
+
+En esta vista se ofrece una lectura rápida del desempeño global.<br>
+Se aplicaron principios de diseño de dashboards como:<br>
+- Jerarquía visual (KPIs principales en la parte superior, detalle debajo).
+- Preatención (color y tamaño para dirigir la mirada a lo más relevante).
+- Alineación y agrupación de elementos relacionados.
+- Minimalismo visual (evitar sobrecarga de gráficos).<br>
+De modo que un directivo pueda entender la situación en pocos segundos.<br><br>
+
+Se incluyó información como:<br>
+- Métricas clave de desempeño (ventas, ganancia, volumen, etc.).
+- Evolución del negocio a lo largo del tiempo.
+- Comparaciones generales entre geografías o segmentos.
+- Elementos que resuman el estado actual del negocio<br>
+👉 Se priorizó síntesis y claridad sin demasiados gráficos.<br><br>
+
+**🔎 Vista 2: Análisis detallado**<br>
+Responde a la pregunta: ¿Dónde están las diferencias, patrones u oportunidades?<br>
+Aquí se desglosa un análisis más profundo que permite explorar causas y detectar insights.<br><br>
+
+Se incluyen: <br>
+- Comparaciones entre categorías, segmentos o regiones.
+- Visuales que permiten filtrar o profundizar
+- Elemento de detalle (tabla) para profundizar en los datos<br>
+👉 Esta vista facilita la exploración y el diagnóstico, no sólo muestra totales. Su objetivo es brindar profundidad analítica y soporte a decisiones.
+---
 
 ## Cómo reproducir el análisis
 
