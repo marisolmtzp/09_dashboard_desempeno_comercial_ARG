@@ -141,7 +141,7 @@ Análisis profundo para explorar causas y detectar insights.
 ## Cómo reproducir el análisis
 
 **1. Revisión del notebook**<br>
-Jupyter notebook (guía de trabajo para construir el dashboard, aquí se documentaron decisiones, métricas y hallazgos): **[notebooks/S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
+Jupyter notebook (guía de trabajo para construir el dashboard, aquí se documentaron decisiones, métricas y hallazgos): **[notebooks/S10_P09 Proyecto_Desempeno_Comercial_ARG.ipynb](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/7f2bdd365b113cf77d6c23bfd6b97caa0d20bde0/notebooks/S10_P09%20Proyecto_Desempeno_Comercial_ARG.ipynb)**
 
 **2. Power BI**<br>
 Descargar el dashboard y abrirlo en Power BI: **[dashboards/S10_P09_Desempeno_Comercial_ARG.pbix](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/1fde0a06448e0bcfbce8d2914b59e43d275c1bc2/dashboards/)**<br>
