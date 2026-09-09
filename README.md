@@ -107,6 +107,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 6. Narrativa con modelo SCQA | Construcción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
 
 ---
+
 ## 📊 Estructura del dashboard
 
 #### 🖥️ Vista 1: Overview ejecutivo
@@ -128,8 +129,8 @@ Análisis profundo para explorar causas y detectar insights.
 
 👉 Profundidad analítica y soporte a decisiones.
 
-
 ---
+
 <table>
 <tr>
 <td bgcolor="#F0F4F8">
@@ -145,6 +146,7 @@ Análisis profundo para explorar causas y detectar insights.
 </td>
 </tr>
 </table>
+
 ## Cómo reproducir el análisis
 
 **1. Revisión del notebook**<br>
