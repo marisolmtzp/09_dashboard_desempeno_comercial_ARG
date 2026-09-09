@@ -80,14 +80,14 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 ├── Datasets/                                ← Datos fuente
 │   └── Andes_Retail_Group_2024_2025.xlsx    # 5,000 registros de venta · 12 columnas
 │
-├── exports/                                ← Generado al ejecutar data wrangling
-│   ├── Andes_Capital_RE_2023_2024.xlsx      # Dataset consolidado para Power BI
+├── exports/                                ← En este caso las modificaciones al dataset se realizaron en Power BI
+│   ├── Andes_Capital_RE_2023_2024.xlsx      # Dataset consolidado luego de cargarse a Power BI
 │
 ├── notebooks/
-│   ├── S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb  # ETL · KPIs base · Análisis · estadística · conclusiones
+│   ├── S10_P09 Proyecto_Desempeno_Comercial_ARG.ipynb  # Contexto · KPIs base · Análisis · estadística · conclusiones
 │
 ├── dashboard/
-│   └── S11_P10_Analisis_Comercial_ACRE.pbix           # Dashboard Power BI · 3 páginas · medidas DAX
+│   └── S10_P09_Desempeno_Comercial_ARG.pbix           # Dashboard Power BI · 2 páginas · columnas/medidas DAX
 │
 └── README.md
 ```
