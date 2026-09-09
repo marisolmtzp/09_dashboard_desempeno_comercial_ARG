@@ -133,9 +133,9 @@ Análisis profundo para explorar causas y detectar insights.
 
 ### 💭 Reflexión personal
 
-> **Lo que más reforcé en este proyecto:** diseño visual y comunicación ejecutiva del dashboard
-> En este proyecto puse especial énfasis en que el diseño no fuera solo estético, sino funcional: trabajé la jerarquía visual para que los KPIs principales resaltaran de inmediato, cuidé que los colores reforzaran el mensaje (y no solo decoraran), y evité la sobrecarga de gráficos para que cada visual tuviera un propósito claro dentro de una secuencia lógica. La narrativa completa se construyó bajo la estructura SCQA, buscando que el dashboard no solo mostrara datos, sino que contara una historia con sentido de negocio.
-> Esto me confirmó que la calidad de un dashboard no se mide por cuántos gráficos tiene, sino por qué tan rápido y con qué claridad comunica un hallazgo a quien toma decisiones: menos gráficas, más claridad.
+> ***Lo que más reforcé en este proyecto:** diseño visual y comunicación ejecutiva del dashboard.* 
+> *En este proyecto puse especial énfasis en que el diseño no fuera solo estético, sino funcional: trabajé la jerarquía visual para que los KPIs principales resaltaran de inmediato, cuidé que los colores reforzaran el mensaje (y no solo decoraran), y evité la sobrecarga de gráficos para que cada visual tuviera un propósito claro dentro de una secuencia lógica. La narrativa completa se construyó bajo la estructura SCQA, buscando que el dashboard no solo mostrara datos, sino que contara una historia con sentido de negocio.*
+> *Esto me confirmó que la calidad de un dashboard no se mide por cuántos gráficos tiene, sino por qué tan rápido y con qué claridad comunica un hallazgo a quien toma decisiones: menos gráficas, más claridad.*
 
 
 ## Cómo reproducir el análisis
