@@ -109,6 +109,27 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 ---
 ## 📊 Estructura del dashboard
 
+#### 🖥️ Vista 1: Overview ejecutivo
+**¿Cómo está el negocio en general?**
+Lectura rápida del desempeño global, aplicando jerarquía visual, preatención, alineación/agrupación y minimalismo visual.
+- Métricas clave (ventas, ganancia, volumen)
+- Evolución temporal del negocio
+- Comparaciones entre geografías o segmentos
+- Estado actual resumido
+
+👉 Síntesis y claridad, sin sobrecarga de gráficos.
+
+#### 🔎 Vista 2: Análisis detallado
+**¿Dónde están las diferencias, patrones u oportunidades?**
+Análisis profundo para explorar causas y detectar insights.
+- Comparaciones entre categorías, segmentos o regiones
+- Visuales con filtros para profundizar
+- Tabla de detalle
+
+👉 Profundidad analítica y soporte a decisiones.
+
+
+
 | | 🖥️ Vista 1: Overview ejecutivo | 🔎 Vista 2: Análisis detallado |
 |---|---|---|
 | **Pregunta que responde** | ¿Cómo está el negocio en general? | ¿Dónde están las diferencias, patrones u oportunidades? |
