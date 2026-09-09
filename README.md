@@ -73,7 +73,7 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 
 
 
-## 📊 Estructura del proyecto
+## Estructura del proyecto
 ```
 10_dashboard_analisis_comercial_ACRE/
 │
@@ -107,7 +107,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 6. Narrativa con modelo SCQA | Construcción de la historia dentro del dashboard y muestra de comunicación de hallazgos vía medios  asíncronos como Slack | Insight estratégico claro y accionable |
 
 ---
-## Estructura del dashboard
+## 📊 Estructura del dashboard
 **🖥️ Vista 1: Overview ejecutivo**<br>
 Responde a la pregunta: ¿Cómo está el negocio en general?<br>
 
@@ -136,7 +136,21 @@ Se incluyen: <br>
 - Elemento de detalle (tabla) para profundizar en los datos<br>
 👉 Esta vista facilita la exploración y el diagnóstico, no sólo muestra totales. Su objetivo es brindar profundidad analítica y soporte a decisiones.
 ---
+<table>
+<tr>
+<td bgcolor="#F0F4F8">
 
+### 💭 Reflexión personal
+
+**Lo que más reforcé en este proyecto:** *(ej. modelado de datos, storytelling con SCQA, diseño visual...)*
+
+*(Aquí tu comentario: qué fue lo más retador, qué aprendiste, cómo se conecta con tu experiencia previa o hacia dónde te lleva en tu ruta como analista de datos.)*
+
+<sub>📍 Parte de mi ruta de aprendizaje en Data Analytics — TripleTen</sub>
+
+</td>
+</tr>
+</table>
 ## Cómo reproducir el análisis
 
 **1. Revisión del notebook**<br>
