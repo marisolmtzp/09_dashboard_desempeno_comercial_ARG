@@ -73,7 +73,7 @@ El proyecto utiliza una tabla de transacciones de ventas del negocio retail Ande
 
 
 
-## Estructura del proyecto
+## 📊 Estructura del proyecto
 ```
 10_dashboard_analisis_comercial_ACRE/
 │
