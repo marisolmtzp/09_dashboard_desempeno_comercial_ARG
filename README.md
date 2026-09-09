@@ -131,20 +131,10 @@ Análisis profundo para explorar causas y detectar insights.
 
 ---
 
-> [!NOTE]
-> ### 💭 Reflexión personal
->
-> **Lo que más reforcé en este proyecto:** *(ej. modelado de datos, storytelling con SCQA, diseño visual...)*
->
-> *(Aquí tu comentario: qué fue lo más retador, qué aprendiste, cómo se conecta con tu experiencia previa o hacia dónde te lleva en tu ruta como analista de datos.)*
->
-> <sub>📍 Parte de mi ruta de aprendizaje en Data Analytics — TripleTen</sub>
-
-
-
-
 <table>
+  
 <tr>
+  
 <td bgcolor="#F0F4F8">
 
 ### 💭 Reflexión personal
@@ -156,7 +146,9 @@ Análisis profundo para explorar causas y detectar insights.
 <sub>📍 Parte de mi ruta de aprendizaje en Data Analytics — TripleTen</sub>
 
 </td>
+
 </tr>
+
 </table>
 
 ## Cómo reproducir el análisis
