@@ -130,6 +130,7 @@ Análisis profundo para explorar causas y detectar insights.
 👉 Profundidad analítica y soporte a decisiones.
 
 ---
+
 ### 💭 Reflexión personal
 <sub> **Lo que más reforcé en este proyecto:** diseño visual y comunicación ejecutiva del dashboard</sub><br>
 
