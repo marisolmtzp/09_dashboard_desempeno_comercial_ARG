@@ -144,8 +144,8 @@ Análisis profundo para explorar causas y detectar insights.
 Jupyter notebook: **[notebooks/S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
 
 **2. Power BI**<br>
-Descargar el dashboard y abrirlo en Power BI: **[dashboards/S10_P09_Analisis_Comercial_ACRE.pbix](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/1fde0a06448e0bcfbce8d2914b59e43d275c1bc2/dashboards/S10_P09_Desempeno_Comercial_ARG.pbix)**<br>
-Conectar dashboard a la fuente de datos limpia: **[exports/Andes_Retail_Group_2024_2025.xlsx](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/97ae7724744d354136ad00e2bbc5a4d5f0096397/exports/Andes_Retail_Group_2024_2025.xlsx)**
+Descargar el dashboard y abrirlo en Power BI: **[dashboards/S10_P09_Desempeno_Comercial_ARG.pbix](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/1fde0a06448e0bcfbce8d2914b59e43d275c1bc2/dashboards/)**<br>
+Conectar dashboard a la fuente de datos limpia: **[exports/Andes_Retail_Group_2024_2025.xlsx](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG/blob/97ae7724744d354136ad00e2bbc5a4d5f0096397/exports/)**
 
 ---
 
